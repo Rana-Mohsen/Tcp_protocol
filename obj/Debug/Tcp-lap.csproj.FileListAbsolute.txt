@@ -1,0 +1,11 @@
+C:\Users\sara soft\OneDrive\المستندات\4th year\1st term\ds\ds sec\ds-labs\TCP-lab2\Tcp-lap\Tcp-lap\bin\Debug\Tcp-lap.exe.config
+C:\Users\sara soft\OneDrive\المستندات\4th year\1st term\ds\ds sec\ds-labs\TCP-lab2\Tcp-lap\Tcp-lap\bin\Debug\Tcp-lap.exe
+C:\Users\sara soft\OneDrive\المستندات\4th year\1st term\ds\ds sec\ds-labs\TCP-lab2\Tcp-lap\Tcp-lap\bin\Debug\Tcp-lap.pdb
+C:\Users\sara soft\OneDrive\المستندات\4th year\1st term\ds\ds sec\ds-labs\TCP-lab2\Tcp-lap\Tcp-lap\obj\Debug\Tcp-lap.csprojAssemblyReference.cache
+C:\Users\sara soft\OneDrive\المستندات\4th year\1st term\ds\ds sec\ds-labs\TCP-lab2\Tcp-lap\Tcp-lap\obj\Debug\Tcp_lap.Client.resources
+C:\Users\sara soft\OneDrive\المستندات\4th year\1st term\ds\ds sec\ds-labs\TCP-lab2\Tcp-lap\Tcp-lap\obj\Debug\Tcp_lap.Server.resources
+C:\Users\sara soft\OneDrive\المستندات\4th year\1st term\ds\ds sec\ds-labs\TCP-lab2\Tcp-lap\Tcp-lap\obj\Debug\Tcp_lap.Properties.Resources.resources
+C:\Users\sara soft\OneDrive\المستندات\4th year\1st term\ds\ds sec\ds-labs\TCP-lab2\Tcp-lap\Tcp-lap\obj\Debug\Tcp-lap.csproj.GenerateResource.cache
+C:\Users\sara soft\OneDrive\المستندات\4th year\1st term\ds\ds sec\ds-labs\TCP-lab2\Tcp-lap\Tcp-lap\obj\Debug\Tcp-lap.csproj.CoreCompileInputs.cache
+C:\Users\sara soft\OneDrive\المستندات\4th year\1st term\ds\ds sec\ds-labs\TCP-lab2\Tcp-lap\Tcp-lap\obj\Debug\Tcp-lap.exe
+C:\Users\sara soft\OneDrive\المستندات\4th year\1st term\ds\ds sec\ds-labs\TCP-lab2\Tcp-lap\Tcp-lap\obj\Debug\Tcp-lap.pdb
